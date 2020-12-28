@@ -1,0 +1,47 @@
+.header {
+    padding: 20px 0;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+
+.photos {
+    width: 1100px;
+    max-width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.photo {
+    margin: 10px 10px;
+}
+
+.content {
+    width: 1100px;
+    max-width: 100%;
+    height: 500px;
+    margin: auto;
+}
+
+.imagesBig {
+    margin-top: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.img img {
+    max-width: 100%;
+}
+
+.footer {
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    color: lightgrey;
+    border-top: solid 1px lightgrey;
+}
