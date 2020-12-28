@@ -4,7 +4,7 @@ function ImageBig (props) {
 
   return (
     <div className="img">
-      <img src={props.image.url} alt=""/>
+        <img src={props.image.url} alt=""/>
     </div>
   )
 }
