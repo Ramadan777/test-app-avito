@@ -6,8 +6,7 @@ import Header from './Header'
 import { Route } from 'react-router-dom'
 import Content from './Content'
 import Footer from './Footer'
-import Modal from './Modal'
-import ImagesBig from './ImagesBig'
+import ImagesBig from './Modal/ImagesBig'
 
 function App() {
   const loading = useSelector(state => state.photos.loading);

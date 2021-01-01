@@ -12,7 +12,6 @@ export const imagesReducer = (state = initialState, action) => {
       return {
         ...state,
         loading: true,
-        opened: action.payload
       }
 
     case 'img/load/success':
@@ -20,6 +19,7 @@ export const imagesReducer = (state = initialState, action) => {
         ...state,
         images: action.payload,
         comments: action.payload.comments,
+        opened: action.payload,
         loading: false
       }
 

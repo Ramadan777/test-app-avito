@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import { useParams } from 'react-router-dom'
 import { useDispatch, useSelector } from 'react-redux'
-import { closeModal, loadImg } from '../redux/actions'
+import { closeModal, loadImg } from '../../redux/actions'
 import ImageBig from './ImageBig'
 import Comment from './Comment'
 

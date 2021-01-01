@@ -98,7 +98,6 @@
     margin: auto;
     position: absolute;
     left: calc(50% - (700px / 2));
-    opacity: 1;
 }
 
 .modal-comment {
