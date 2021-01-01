@@ -18,7 +18,8 @@ export const loadPhotos = () => {
 export const loadImg = (id) => {
   return (dispatch) => {
     dispatch({
-      type: 'img/load/start'
+      type: 'img/load/start',
+      payload: id
     })
 
     fetch(`https://boiling-refuge-66454.herokuapp.com/images/${id}`)
@@ -29,6 +30,14 @@ export const loadImg = (id) => {
           payload: json
         })
       })
+  }
+}
+
+export const closeModal = () => {
+  return (dispacth) => {
+    dispacth ({
+      type: 'close/modal'
+    })
   }
 
 }

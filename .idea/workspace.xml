@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ef2e9b3-7cee-4009-9584-19535c0e3fe8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Comment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modal.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Content.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Content.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ImageBig.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ImageBig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ImagesBig.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ImagesBig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Photo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Photo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/images.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/images.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +54,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608925565142</updated>
-      <workItem from="1608925567527" duration="22602000" />
+      <workItem from="1608925567527" duration="23749000" />
+      <workItem from="1609243513411" duration="8000" />
+      <workItem from="1609243540314" duration="17758000" />
     </task>
     <servers />
   </component>
@@ -65,5 +73,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

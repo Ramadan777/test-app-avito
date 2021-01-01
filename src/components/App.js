@@ -6,6 +6,8 @@ import Header from './Header'
 import { Route } from 'react-router-dom'
 import Content from './Content'
 import Footer from './Footer'
+import Modal from './Modal'
+import ImagesBig from './ImagesBig'
 
 function App() {
   const loading = useSelector(state => state.photos.loading);
@@ -31,6 +33,7 @@ function App() {
       <Photos />
       <Content />
       <Footer />
+      <ImagesBig />
     </div>
     </Route>
   );
