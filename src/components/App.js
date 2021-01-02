@@ -31,8 +31,8 @@ function App() {
       <Header />
       <Photos />
       <Content />
-      <Footer />
       <ImagesBig />
+      <Footer />
     </div>
     </Route>
   );

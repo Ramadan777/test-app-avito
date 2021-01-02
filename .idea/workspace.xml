@@ -5,11 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Comment.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modal/Comment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ImageBig.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modal/ImageBig.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ImagesBig.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modal/ImagesBig.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Modal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/images.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/images.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Modal/ImagesBig.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modal/ImagesBig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducer.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +52,7 @@
       <updated>1608925565142</updated>
       <workItem from="1608925567527" duration="23749000" />
       <workItem from="1609243513411" duration="8000" />
-      <workItem from="1609243540314" duration="18448000" />
+      <workItem from="1609243540314" duration="28626000" />
     </task>
     <servers />
   </component>
